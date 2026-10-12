@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow 智慧記帳與雲端試算表",
+  "description": "支援自訂收支分類、一鍵匯出 Excel/CSV 試算表、Google Drive 雲端備份與深色模式的個人記帳管理應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
